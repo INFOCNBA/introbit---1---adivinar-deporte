@@ -7,7 +7,7 @@
  * 
  * Desafío:
  * 
- * - modificar elemento del botón A para dar la primera pista
+ * - modificar el evento del botón A para dar la primera pista
  * 
  * - programar dos eventos más para dar las siguientes pistas del deporte escondido
  */
