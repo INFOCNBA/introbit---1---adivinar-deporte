@@ -11,6 +11,8 @@
  * 
  * - programar dos eventos más para dar las siguientes pistas del deporte escondido
  */
+// Ver el comentario "Enunciado1"
+// 
 // Este es el primer bloque que pacticaremos: es un Evento
 input.onButtonPressed(Button.A, function () {
     basic.showString("pistaA")
