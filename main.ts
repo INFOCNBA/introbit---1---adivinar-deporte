@@ -1,7 +1,7 @@
 /**
  * Enunciado1+:
  * 
- * Este es el programa mas básico qué podemos tener  :)
+ * Este es el programa mas básico que podemos tener  :)
  * 
  * - aca vemos un solo evento (que es atendido por una sola primitiva)
  * 

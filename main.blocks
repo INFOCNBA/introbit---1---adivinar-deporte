@@ -1,15 +1,19 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><comment id="t3kOn#~vteiv31(~jhpj" x="-210" y="-382" h="270" w="957">Enunciado1+:
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="}JV(BFE0?P@T!bJ9WeM0" data="0" x="-40" y="-410" h="360" w="480">Enunciado1+:
 
-Este es el programa mas básico qué podemos tener  :)
+Este es el programa mas básico que podemos tener  :)
+
 - aca vemos un solo evento (que es atendido por una sola primitiva)
 
 Desafío:
+
 - modificar el evento del botón A para dar la primera pista
+
 - programar dos eventos más para dar las siguientes pistas del deporte escondido
 
-
 Desafío++:
-- que el evento del botón A sea un icono
-- que el evento del botón B además de la pista, toque un sonido</comment><block type="device_button_event" id="r`Hh[C*-]#TNWW7,(1;q" x="0" y="0"><field name="NAME">Button.A</field><comment pinned="false" h="346" w="370">Ver el comentario "Enunciado1"
 
-Este es el primer bloque que pacticaremos: es un Evento</comment><statement name="HANDLER"><block type="device_print_message" id="RStt%*s:9,wuunH5-7Ui"><value name="text"><shadow type="text" id=".Kq4;-s~u[mi62e$KRc@"><field name="TEXT">pistaA</field></shadow></value></block></statement></block></xml>
+- que el evento del botón A sea un icono
+
+- que el evento del botón B además de la pista, toque un sonido</comment><block type="device_button_event" id="o;0R*b45X5~h%x!56G4N" x="10" y="10"><field name="NAME">Button.A</field><comment pinned="false" h="80" w="160">Ver el comentario "Enunciado1"
+
+Este es el primer bloque que pacticaremos: es un Evento</comment><data>0</data><statement name="HANDLER"><block type="device_print_message" id="i$leSk8O`w(?+)(E@!!}"><value name="text"><shadow type="text" id="TuC^_X{9q[aGjnz^-a1Q"><field name="TEXT">pistaA</field></shadow></value></block></statement></block></xml>
